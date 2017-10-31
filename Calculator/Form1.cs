@@ -18,7 +18,7 @@ namespace Calculator
         }
         string islem = "";
         Double deger = 0;
-        bool opr_press = false;
+        bool opr_press = false; //işlem e basıldı mı basılmadı mı
 
         private void button12_Click(object sender, EventArgs e)
         {
