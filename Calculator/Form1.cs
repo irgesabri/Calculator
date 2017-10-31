@@ -22,6 +22,7 @@ namespace Calculator
 
         private void button12_Click(object sender, EventArgs e)
         {
+            //buna gerek yok
             txtSonuc.Text ="1";
         }
 
